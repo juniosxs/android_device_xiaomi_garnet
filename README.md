@@ -1,4 +1,4 @@
-# Android device tree for Android mainline (garnet)
+# Android device tree for POCO X6 5G  / Redmi Note 13 Pro 5G (garnet)
 
 ```
 #
